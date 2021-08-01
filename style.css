@@ -29,16 +29,24 @@ html {
     clear: both;
 }
 
+.cv {
+    display: flex;
+    justify-content: space-around;
+}
+
 .photo {
-    width: 100%;
-    float: left;
+    width: 49%;
+    /* float: left; */
+    /* padding-right: 10px; */
 }
 
 .player {
-    position: absolute;
-    top: 20px;
+    /* float: left; */
+    /* width: 49%; */
+    /* position: absolute; */
+    /* top: 20px; */
     right: 20px;
-    width: 200px;
+    /* width: 200px; */
 }
 
 
